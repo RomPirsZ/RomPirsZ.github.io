@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Acerca de la página
-tags: [acerca de, Ckaley, proyectos, diseño web]
+layout: post
+title: "Probando el post"
 date: 2024-02-21
+excerpt: "Texto legible"
+tags: [post de prueba, corrigiendo]
 comments: true
 ---
 
